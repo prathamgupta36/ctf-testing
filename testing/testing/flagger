@@ -1,5 +1,6 @@
 #!/bin/bash
 
+unzip /challenge/pyinstaller.zip -d /challenge/
 pip install /challenge/pyinstaller/PyInstaller
 pyinstaller --onefile flagCheck.py
 mv /challenge/dist/flagCheck /challenge/
