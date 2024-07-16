@@ -3,4 +3,4 @@ name: Testing
 type: private
 
 modules:
-  - id: testing
+  - id: downunderctf24
