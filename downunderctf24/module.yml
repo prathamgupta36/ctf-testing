@@ -4,8 +4,8 @@ name: DownUnderCTF 2024
 challenges:
   - id: adorableencryptedanimal
     name: REV - Adorable Encrypted Animal
-  # - id: babysfirstforensics
-  #   name: FORENSICS - Baby's First Forensics
+  - id: babysfirstforensics
+    name: FORENSICS - Baby's First Forensics
   # - id: badpolicies
   #   name: FORENSICS - Bad Policies
   # - id: bridgetlives
