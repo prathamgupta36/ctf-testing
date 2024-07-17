@@ -8,10 +8,10 @@ challenges:
     name: FORENSICS - Baby's First Forensics
   # - id: badpolicies
   #   name: FORENSICS - Bad Policies
-  - id: bridgetlives
-    name: OSINT - Bridget Lives
-  # - id: dnadecay
-  #   name: 
+  # - id: bridgetlives
+  #   name: OSINT - Bridget Lives
+  - id: dnadecay
+    name: MISC - DNAdecay
   # - id: emuc2
   #   name:
   # - id: jmpflag
