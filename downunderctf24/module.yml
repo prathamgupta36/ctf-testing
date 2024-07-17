@@ -12,20 +12,20 @@ challenges:
   #   name: OSINT - Bridget Lives
   # - id: dnadecay
   #   name: MISC - DNAdecay
-  - id: emuc2
-    name: FORENSICS - emuc2
+  # - id: emuc2
+  #   name: FORENSICS - emuc2
   - id: jmpflag
     name: REV - Jmp Flag
-  - id: lostinmemory
-    name: FORENSICS - Lost in Memory
+  # - id: lostinmemory
+  #   name: FORENSICS - Lost in Memory
   # - id: macromagic
   #   name:
   # - id: mkductfiso
   #   name:
   # - id: pkijseq
   #   name:
-  # - id: pressingbuttons
-  #   name:
+  - id: pressingbuttons
+    name: REV - Pressing Buttons
   # - id: rustyvault
   #   name:
   # - id: samiam
