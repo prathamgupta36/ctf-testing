@@ -26,12 +26,12 @@ challenges:
   #   name:
   - id: pressingbuttons
     name: REV - Pressing Buttons
-  - id: rustyvault
-    name: REV - 195 - Rusty Vault
+  # - id: rustyvault
+  #   name: REV - 195 - Rusty Vault
   # - id: samiam
   #   name:
-  # - id: shufflebox
-  #   name:
+  - id: shufflebox
+    name: CRYPTO - 100 - Shufflebox
   # - id: ternarybrained
   #   name:
   # - id: tldrpleasesummarize
