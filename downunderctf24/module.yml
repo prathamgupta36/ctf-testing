@@ -16,8 +16,8 @@ challenges:
     name: FORENSICS - emuc2
   - id: jmpflag
     name: REV - Jmp Flag
-  # - id: lostinmemory
-  #   name:
+  - id: lostinmemory
+    name: FORENSICS - Lost in Memory
   # - id: macromagic
   #   name:
   # - id: mkductfiso
