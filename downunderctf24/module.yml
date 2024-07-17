@@ -6,8 +6,8 @@ challenges:
     name: REV - Adorable Encrypted Animal
   - id: babysfirstforensics
     name: FORENSICS - Baby's First Forensics
-  # - id: badpolicies
-  #   name: FORENSICS - Bad Policies
+  - id: badpolicies
+    name: FORENSICS - Bad Policies
   # - id: bridgetlives
   #   name: OSINT - Bridget Lives
   # - id: dnadecay
