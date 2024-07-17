@@ -10,10 +10,10 @@ challenges:
   #   name: FORENSICS - Bad Policies
   # - id: bridgetlives
   #   name: OSINT - Bridget Lives
-  - id: dnadecay
-    name: MISC - DNAdecay
-  # - id: emuc2
-  #   name:
+  # - id: dnadecay
+  #   name: MISC - DNAdecay
+  - id: emuc2
+    name: FORENSICS - emuc2
   # - id: jmpflag
   #   name:
   # - id: lostinmemory
