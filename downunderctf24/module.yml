@@ -34,7 +34,9 @@ challenges:
     name: CRYPTO - 100 - Shufflebox
   # - id: ternarybrained
   #   name: REV - Ternary Brained
-  - id: tldrpleasesummarize
-    name: MISC - 100 - tldr please summarise
+  # - id: tldrpleasesummarize
+  #  name: MISC - 100 - tldr please summarise
   # - id: wackyreciepe
   #   name:
+  - id: decrypttheneval
+    name: CRYPTO - decrypt then eval
