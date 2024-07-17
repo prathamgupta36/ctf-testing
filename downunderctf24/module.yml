@@ -8,34 +8,22 @@ challenges:
     name: FORENSICS - Baby's First Forensics
   # - id: badpolicies
   #   name: FORENSICS - Bad Policies
-  # - id: bridgetlives
-  #   name: OSINT - Bridget Lives
   # - id: dnadecay
   #   name: MISC - DNAdecay
   # - id: emuc2
   #   name: FORENSICS - emuc2
-  - id: jmpflag
-    name: REV - Jmp Flag
   # - id: lostinmemory
   #   name: FORENSICS - Lost in Memory
-  # - id: macromagic
-  #   name:
   # - id: mkductfiso
   #   name:
   # - id: pkijseq
   #   name:
-  - id: pressingbuttons
-    name: REV - Pressing Buttons
-  # - id: rustyvault
-  #   name: REV - 195 - Rusty Vault
   # - id: samiam
   #   name:
   - id: shufflebox
     name: CRYPTO - 100 - Shufflebox
   # - id: ternarybrained
   #   name: REV - Ternary Brained
-  # - id: tldrpleasesummarize
-  #  name: MISC - 100 - tldr please summarise
   # - id: wackyreciepe
   #   name:
   - id: decrypttheneval
