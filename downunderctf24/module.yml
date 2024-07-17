@@ -32,8 +32,8 @@ challenges:
   #   name:
   - id: shufflebox
     name: CRYPTO - 100 - Shufflebox
-  # - id: ternarybrained
-  #   name:
+  - id: ternarybrained
+    name: REV - Ternary Brained
   # - id: tldrpleasesummarize
   #   name:
   # - id: wackyreciepe
