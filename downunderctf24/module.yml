@@ -14,8 +14,8 @@ challenges:
   #   name: MISC - DNAdecay
   - id: emuc2
     name: FORENSICS - emuc2
-  # - id: jmpflag
-  #   name:
+  - id: jmpflag
+    name: REV - Jmp Flag
   # - id: lostinmemory
   #   name:
   # - id: macromagic
