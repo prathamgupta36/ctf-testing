@@ -26,8 +26,8 @@ challenges:
   #   name:
   - id: pressingbuttons
     name: REV - Pressing Buttons
-  # - id: rustyvault
-  #   name:
+  - id: rustyvault
+    name: REV - 195 - Rusty Vault
   # - id: samiam
   #   name:
   # - id: shufflebox
