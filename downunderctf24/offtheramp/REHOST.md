@@ -1,9 +1,9 @@
 # REHOSTING
 
-Files can be found here: [emuc2](https://github.com/DownUnderCTF/Challenges_2024_Public/blob/main/forensics/emuc2/README.md)
+Files can be found here: [offtheramp](https://github.com/DownUnderCTF/Challenges_2024_Public/blob/main/osint/offtheramp/README.md)
 
 ## Challenge Setup
-There are no dependecy files for `challenge.pcap` and `sslkeylogfile`
+There are no dependecy files for `offtheramp.jpeg`
 
 ## Flag Check
 

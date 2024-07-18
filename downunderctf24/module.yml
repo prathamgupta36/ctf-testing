@@ -10,12 +10,12 @@ challenges:
   #   name: FORENSICS - Bad Policies
   # - id: dnadecay
   #   name: MISC - DNAdecay
-  # - id: emuc2
-  #   name: FORENSICS - emuc2
   # - id: lostinmemory
   #   name: FORENSICS - Lost in Memory
   # - id: mkductfiso
   #   name:
+    # - id: offtheramp
+    #   name: OSINT - offtheramp
   # - id: pkijseq
   #   name:
   # - id: samiam
@@ -28,3 +28,5 @@ challenges:
   #   name:
   - id: decrypttheneval
     name: CRYPTO - decrypt then eval
+  - id: pacshell
+    name: PWN - Pac Shell
