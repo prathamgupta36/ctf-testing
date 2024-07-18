@@ -28,5 +28,5 @@ challenges:
   #   name:
   - id: decrypttheneval
     name: CRYPTO - decrypt then eval
-  - id: signin
-    name: PWN - Sign In
+  - id: aes
+    name: CRYPTO - AES
