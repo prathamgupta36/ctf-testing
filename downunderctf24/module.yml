@@ -30,3 +30,5 @@ challenges:
     name: CRYPTO - decrypt then eval
   - id: interceptedtransmission
     name: MISC - Intercepted Transmissions
+  - id: numbermashing
+    name: Number Mashing

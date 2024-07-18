@@ -1,9 +1,9 @@
 # REHOSTING
 
-Files can be found here: []()
+Files can be found here: [Intercepted Transmissions](https://github.com/DownUnderCTF/Challenges_2024_Public/blob/main/beginner/intercepted-transmissions/README.md)
 
 ## Challenge Setup
-There are no dependecy files for .
+There are no dependecy files for `encoding`.
 
 ## Flag Check
 
