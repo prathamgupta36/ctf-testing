@@ -1,9 +1,9 @@
 # REHOSTING
 
-Files can be found here: [pac shell](https://github.com/DownUnderCTF/Challenges_2024_Public/tree/main/pwn/pac-shell)
+Files can be found here: [sheep farm simulator](https://github.com/DownUnderCTF/Challenges_2024_Public/tree/main/pwn/sheep-farm-simulator)
 
 ## Challenge Setup
-There are no dependecy files for `pac_shell.tar.gz`
+There are no dependecy files for `sheep.
 
 ## Flag Check
 

@@ -28,5 +28,5 @@ challenges:
   #   name:
   - id: decrypttheneval
     name: CRYPTO - decrypt then eval
-  - id: pacshell
-    name: PWN - Pac Shell
+  - id: sheepfarmsimulator
+    name: PWN - Sheep Farm Simulator
