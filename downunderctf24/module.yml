@@ -28,5 +28,5 @@ challenges:
   #   name:
   - id: decrypttheneval
     name: CRYPTO - decrypt then eval
-  - id: aes
-    name: CRYPTO - AES
+  - id: kyberdecryptionoracle
+    name: CRYPTO - Kyber Decryption Oracle
