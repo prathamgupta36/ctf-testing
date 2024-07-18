@@ -1,9 +1,9 @@
 # REHOSTING
 
-Files can be found here: [sheep farm simulator](https://github.com/DownUnderCTF/Challenges_2024_Public/tree/main/pwn/sheep-farm-simulator)
+Files can be found here: []()
 
 ## Challenge Setup
-There are no dependecy files for `sheep.
+There are no dependecy files for .
 
 ## Flag Check
 

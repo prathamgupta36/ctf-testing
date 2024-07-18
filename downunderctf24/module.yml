@@ -28,5 +28,5 @@ challenges:
   #   name:
   - id: decrypttheneval
     name: CRYPTO - decrypt then eval
-  - id: sheepfarmsimulator
-    name: PWN - Sheep Farm Simulator
+  - id: signin
+    name: PWN - Sign In
