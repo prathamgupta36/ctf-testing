@@ -6,29 +6,13 @@ challenges:
     name: REV - Adorable Encrypted Animal
   - id: babysfirstforensics
     name: FORENSICS - Baby's First Forensics
-  # - id: badpolicies
-  #   name: FORENSICS - Bad Policies
-  # - id: dnadecay
-  #   name: MISC - DNAdecay
-  # - id: lostinmemory
-  #   name: FORENSICS - Lost in Memory
-  # - id: mkductfiso
-  #   name:
-    # - id: offtheramp
-    #   name: OSINT - offtheramp
-  # - id: pkijseq
-  #   name:
-  # - id: samiam
-  #   name:
   - id: shufflebox
     name: CRYPTO - 100 - Shufflebox
-  # - id: ternarybrained
-  #   name: REV - Ternary Brained
-  # - id: wackyreciepe
-  #   name:
   - id: decrypttheneval
     name: CRYPTO - decrypt then eval
   - id: interceptedtransmission
     name: MISC - Intercepted Transmissions   
   - id: vforvieta
     name: CRYPTO - V for Vieta
+  - id: myarraygenerator
+    name: CRYPTO - 200 - My Array Generator

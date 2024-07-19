@@ -1,9 +1,9 @@
 # REHOSTING
 
-Files can be found here: [Wacky Recipe](https://github.com/DownUnderCTF/Challenges_2024_Public/blob/main/misc/wackyrecipe/README.md)
+Files can be found here: [my array generator](https://github.com/DownUnderCTF/Challenges_2024_Public/blob/main/crypto/my-array-generator/README.md)
 
 ## Challenge Setup
-There are no dependecy files for `recipe.txt`
+There are no dependecy files for `challenge.py` or `output.txt`.
 
 ## Flag Check
 
