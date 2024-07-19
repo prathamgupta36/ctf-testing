@@ -16,3 +16,5 @@ challenges:
     name: CRYPTO - V for Vieta
   - id: myarraygenerator
     name: CRYPTO - 200 - My Array Generator
+  - id: ternarybrained
+    name: REV - Ternary Brained
