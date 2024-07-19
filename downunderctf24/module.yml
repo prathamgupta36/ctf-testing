@@ -29,6 +29,6 @@ challenges:
   - id: decrypttheneval
     name: CRYPTO - decrypt then eval
   - id: interceptedtransmission
-    name: MISC - Intercepted Transmissions   ### HAVE TO REDO ###
-  - id: numbermashing
-    name: Number Mashing
+    name: MISC - Intercepted Transmissions   
+  - id: vforvieta
+    name: CRYPTO - V for Vieta
