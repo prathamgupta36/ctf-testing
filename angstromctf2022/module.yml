@@ -6,3 +6,5 @@ challenges:
     name: CRYPTO - 40 - Caesar and Desister
   - id: randomlysampledalgorithm
     name: CRYPTO - 70 - Randomly Sampled Algorithm
+  - id: amongus
+    name: MISC - 40 - amongus
