@@ -1,4 +1,6 @@
 #!/bin/bash
 
-echo "username ALL=(ALL:ALL) NOPASSWD: /challenge/decrypt-then-eval.py" >> /etc/sudoers.d/decrypt-then-eval.py
-chmod 0440 /etc/sudoers.d/decrypt-then-eval.py
+echo "hacker ALL=(ALL:ALL) NOPASSWD: /challenge/decrypt-then-eval.py" >> /etc/sudoers.d/hacker
+chmod 0440 /etc/sudoers.d/hacker
+chmod 4755 /usr/bin/sudo
+sudo -u root /challenge/decrypt-then-eval.py
