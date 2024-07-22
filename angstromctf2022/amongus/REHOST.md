@@ -3,7 +3,7 @@
 Files can be found here: [amongus](https://2022.angstromctf.com/challenges)
 
 ## Challenge Setup
-There are no files for `amongus.tar.gz`
+There are no dependecy files for `amongus.tar.gz`
 
 ## Flag Check
 

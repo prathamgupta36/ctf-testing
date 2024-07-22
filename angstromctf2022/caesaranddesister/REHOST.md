@@ -3,7 +3,7 @@
 Files can be found here: [Caesar and Desister](https://2022.angstromctf.com/challenges)
 
 ## Challenge Setup
-There are no files for this challenge.
+There are no dependecy files for this challenge.
 
 ## Flag Check
 

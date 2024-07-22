@@ -3,7 +3,7 @@
 Files can be found here: [Shark 1](https://2022.angstromctf.com/challenges)
 
 ## Challenge Setup
-There are no files for `shark1.pcapng`.
+There are no dependecy files for `shark1.pcapng`.
 
 ## Flag Check
 
