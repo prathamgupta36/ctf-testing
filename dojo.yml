@@ -4,6 +4,6 @@ type: private
 
 modules:
   - id: downunderctf24
-    name: downunderctf24
+    name: downunderctf2024
   - id: angstromctf2022
-    name: angstromctf2022
+    name: ångstromCTF 2022
