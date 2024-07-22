@@ -8,8 +8,8 @@ challenges:
     name: FORENSICS - 100 - Baby's First Forensics
   - id: shufflebox
     name: CRYPTO - 100 - Shufflebox
-  # - id: decrypttheneval
-  #   name: CRYPTO - 118 - decrypt then eval      ###NEED TO FIX .init###
+  - id: decrypttheneval
+    name: CRYPTO - 118 - decrypt then eval      ###NEED TO FIX .init###
   - id: interceptedtransmission
     name: MISC - 100 - Intercepted Transmissions   
   - id: vforvieta
