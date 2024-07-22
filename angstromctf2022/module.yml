@@ -4,5 +4,5 @@ name: angstromctf2022
 challenges:
   - id: caesaranddesister
     name: CRYPTO - 40 - Caesar and Desister
-  - id: vinegarfactory
-    name: CRYPTO - 100 - Vinegar Factory
+  - id: randomlysampledalgorithm
+    name: CRYPTO - 70 - Randomly Sampled Algorithm
