@@ -3,7 +3,7 @@
 Files can be found here: [Randomly Sampled Algorithm](https://2022.angstromctf.com/challenges)
 
 ## Challenge Setup
-There are no files for `main.py`.
+There are no files for `rsa.py` or `output.txt`.
 
 ## Flag Check
 
