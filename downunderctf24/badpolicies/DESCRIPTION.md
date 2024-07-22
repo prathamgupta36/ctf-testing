@@ -6,3 +6,6 @@ Can you figure out how they got access after pulling these artifacts from one of
 
 ---
 **Author:** TurboPenguin
+
+---
+Editor's NOTE: `badpolicies.zip` the original zip is provided but we have set up the necessary files in the `badpolicies` folder.

@@ -12,8 +12,8 @@ challenges:
     name: CRYPTO - 200 - My Array Generator
   - id: babysfirstforensics
     name: FORENSICS - 100 - Baby's First Forensics
-  # - id: badpolicies
-    # name: FORENSICS - 100 - Bad Policies
+  - id: badpolicies
+    name: FORENSICS - 100 - Bad Policies
   - id: interceptedtransmission
     name: MISC - 100 - Intercepted Transmissions   
   - id: wackyreciepe
