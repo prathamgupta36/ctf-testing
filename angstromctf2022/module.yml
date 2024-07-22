@@ -1,0 +1,7 @@
+id: angstromctf2022 
+name: angstromctf2022
+
+challenges:
+  - id: caesaranddesister
+    name: CRYPTO - 40 - Caesar and Desister
+  
