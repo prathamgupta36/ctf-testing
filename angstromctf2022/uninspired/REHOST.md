@@ -1,17 +1,13 @@
 # REHOSTING
 
-Files can be found here: [Wah](https://2022.angstromctf.com/challenges)
+Files can be found here: [uninspired](https://2022.angstromctf.com/challenges)
 
 ## Challenge Setup
-There are no dependecy files for `wah` or `wah.c`. It does however need a `flag.txt` file in the current directory for the challenge to give the flag.
+There are no dependecy files for `uninspired`.
 
-## Flag Linking
-This challenge calls a flag file in the current directory so had to link the flag with /flag which is the pwn.college text:
-Checks if the file flag.txt exists and if not then it creates a link between flag.txt and /flag
+## Flag Check
+
+As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
 ```
-#!/bin/bash
-
-# Attempt to create a symboliclink
-ln -s /flag /challenge/flag.txt 2>/dev/null
-ln -sf /flag /home/hacker/flag.txt
+/challenge/flagcheck
 ```

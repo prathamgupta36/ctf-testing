@@ -1,4 +1,4 @@
-Baby friendly!
+clam has no more inspiration :( maybe help him get some?
 
 ---
-**Author:** JoshDaBosh
+**Author:** aplet123
