@@ -1,6 +1,6 @@
 # REHOSTING
 
-Files can be found here: [Wah](https://2022.angstromctf.com/challenges)
+Files can be found here: [Number Game](https://2022.angstromctf.com/challenges)
 
 ## Challenge Setup
 There are no dependecy files for `wah` or `wah.c`. It does however need a `flag.txt` file in the current directory for the challenge to give the flag.
