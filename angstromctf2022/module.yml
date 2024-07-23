@@ -20,3 +20,5 @@ challenges:
     name: REV - 70 - Number Game
   - id: dyn
     name: REV - 100 - dyn
+  - id: uninspired
+    name: REV - 100 - uninspired
