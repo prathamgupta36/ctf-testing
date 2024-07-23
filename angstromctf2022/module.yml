@@ -18,3 +18,5 @@ challenges:
     name: PWN - 50 - whatsmyname
   - id: numbergame
     name: REV - 70 - Number Game
+  - id: dyn
+    name: REV - 100 - dyn
