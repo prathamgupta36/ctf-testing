@@ -1,0 +1,7 @@
+id: byuctf2023 
+name: BYUCTF 2023
+
+challenges:
+  - id: poem
+    name: CRYPTO - 452 - Poem
+  
