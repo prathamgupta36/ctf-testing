@@ -12,4 +12,6 @@ challenges:
     name: MISC - Hexadecalingo
   - id: misc006-1
     name: MISC - 006-1
+  - id: misc006-2
+    name: MISC - 006-2
   
