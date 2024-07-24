@@ -14,4 +14,6 @@ challenges:
     name: MISC - 006-1
   - id: misc006-2
     name: MISC - 006-2
+  - id: xkcd2637
+    name: MISC - xkcd 2637
   
