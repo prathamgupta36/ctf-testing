@@ -4,4 +4,6 @@ name: BYUCTF 2023
 challenges:
   - id: poem
     name: CRYPTO - 452 - Poem
+  - id: rsa1
+    name: CRYPTO - RSA1
   

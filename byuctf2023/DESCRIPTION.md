@@ -1,4 +1,4 @@
-## Welcome to ångstromCTF 2022
+## Welcome to BYUCTF 2023
 
 <!-- The second iteration of BYUCTF will be held in May of 2023! The CTF will have beginner- to intermediate-level challenges during the 36-hour period. Categories will include web, crypto, OSINT, forensics, rev, pwn, jail, and misc. There is no team size limit.
 
