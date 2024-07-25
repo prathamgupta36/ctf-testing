@@ -6,6 +6,8 @@ challenges:
     name: CRYPTO - 452 - Poem
   - id: rsa1
     name: CRYPTO - RSA1
+  - id: rsa2
+    name: CRYPTO - RSA2
   - id: pwn2038
     name: PWN - 2038
   - id: hexadecalingo
