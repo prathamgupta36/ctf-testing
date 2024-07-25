@@ -1,9 +1,9 @@
 # REHOSTING
 
-Files can be found here: [RSA2](https://github.com/sajjadium/ctf-archives/tree/main/ctfs/BYUCTF/2023/crypto/RSA2)
+Files can be found here: [RSA5](https://github.com/sajjadium/ctf-archives/tree/main/ctfs/BYUCTF/2023/crypto/RSA5)
 
 ## Challenge Setup
-There are no dependency files for `rsa2.txt`.
+There are no dependency files for `rsa5.txt`.
 
 ## Flag Check
 

@@ -8,6 +8,12 @@ challenges:
     name: CRYPTO - RSA1
   - id: rsa2
     name: CRYPTO - RSA2
+  - id: rsa3
+    name: CRYPTO - RSA3
+  - id: rsa4
+    name: CRYPTO - RSA4
+  - id: rsa5
+    name: CRYPTO - RSA5
   - id: pwn2038
     name: PWN - 2038
   - id: hexadecalingo
