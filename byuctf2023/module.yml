@@ -14,6 +14,8 @@ challenges:
     name: CRYPTO - RSA4
   - id: rsa5
     name: CRYPTO - RSA5
+  - id: crcconfusion
+    name: FORENSICS - CRConfusion
   - id: pwn2038
     name: PWN - 2038
   - id: hexadecalingo
