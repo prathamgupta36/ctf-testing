@@ -1,9 +1,9 @@
 # REHOSTING
 
-Files can be found here: []()
+Files can be found here: [re_amxx](https://github.com/justcatthefish/justctf-2022/tree/main/challenges/re_amxx)
 
 ## Challenge Setup
-There are no dependecy files for ``
+There are no dependecy files for `task.zip`
 
 ## Flag Check
 

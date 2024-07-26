@@ -2,5 +2,5 @@ id: justctf2022
 name: justCTF 2022
 
 challenges:
-  - id: skilltest
-    name: PWN - 340 - Skilltest
+  - id: amxx
+    name: RE - 406 - AMXX
