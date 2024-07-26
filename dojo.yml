@@ -9,8 +9,8 @@ modules:
     name: ångstromCTF 2022
   - id: byuctf2023
     name: BYUCTF 2023
-  - id: googlectf2021
-    name: googlectf2021
+  - id: greycattheflag2022
+    name: greycattheflag2022
   # - id: justctf2022
     # name: justCTF 2022
     
