@@ -7,9 +7,10 @@ modules:
     name: downunderctf2024
   - id: angstromctf2022
     name: ångstromCTF 2022
-  - id: byuctf2023
-    name: BYUCTF 2023
+  # - id: byuctf2023
+  #   name: BYUCTF 2023
   - id: justctf2022
     name: justCTF 2022
+
   # - id: hxpctf2020
     # name: hxp CTF 2020
