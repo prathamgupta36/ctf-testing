@@ -10,5 +10,3 @@ chmod 4755 /usr/bin/sudo
 sudo -u root /challenge/main.py
 
 sudo chmod +x main.py
-
-ln -s /flag /challenge/flag.txt 2>/dev/null 
