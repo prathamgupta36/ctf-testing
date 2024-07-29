@@ -6,5 +6,7 @@ challenges:
     name: CRYPTO - baby
   - id : block
     name: CRYPTO - Block
+  - id: catino
+    name: CRYPTO - Catino
     
   
