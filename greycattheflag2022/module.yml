@@ -4,5 +4,7 @@ name: greycattheflag2022
 challenges:
   - id: baby
     name: CRYPTO - baby
+  - id : block
+    name: CRYPTO - Block
     
   
