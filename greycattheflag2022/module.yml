@@ -8,5 +8,7 @@ challenges:
     name: CRYPTO - Block
   - id: catino
     name: CRYPTO - Catino
+  - id: cube
+    name: CRYPTO - Cube
     
   
