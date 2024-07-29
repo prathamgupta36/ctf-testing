@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#create a symboliclink
+ln -s /flag /challenge/ezflag.txt 2>/dev/null
