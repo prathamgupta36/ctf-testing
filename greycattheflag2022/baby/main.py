@@ -1,6 +1,6 @@
 from Crypto.Util.number import getPrime, bytes_to_long
 
-#FLAG = <REDACTED>
+FLAG = open("flag.txt", "rb").read().strip()
 
 p = getPrime(1024); q = getPrime(1024)
 r = getPrime(4086); s = getPrime(4086)
