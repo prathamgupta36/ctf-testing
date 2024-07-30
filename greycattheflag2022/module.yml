@@ -10,7 +10,7 @@ challenges:
     name: CRYPTO - Catino
   - id: equation_2
     name: CRYPTO - Equation - 2
-  # - id: easyoob
-    # name: easyoob
+  - id: easyoob
+    name: easyoob
     
   
