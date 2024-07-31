@@ -8,9 +8,7 @@ challenges:
     name: CRYPTO - Block
   - id: catino
     name: CRYPTO - Catino
-  - id: equation2
-    name: CRYPTO - Equation - 2
-  - id: easyoob
-    name: easyoob
+  - id: dot
+    name: CRYPTO - Dot
     
   
