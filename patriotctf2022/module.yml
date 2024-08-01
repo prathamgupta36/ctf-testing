@@ -1,0 +1,6 @@
+id: patriotctf2022
+name: patriotctf2022
+
+challenges:
+  - id: barry
+    name: CRYPTO - 500 - Barry
