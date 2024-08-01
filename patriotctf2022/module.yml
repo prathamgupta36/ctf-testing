@@ -10,3 +10,5 @@ challenges:
     name: FORENSICS - 399 - Bézier
   - id: exfil
     name: FORENSICS - 485 - Exfil
+  - id: hike
+    name: RECON - Hike
