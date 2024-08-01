@@ -4,3 +4,5 @@ name: patriotctf2022
 challenges:
   - id: barry
     name: CRYPTO - 500 - Barry
+  - id: base64times10
+    name: CRYPTO - Base 64 Times 10

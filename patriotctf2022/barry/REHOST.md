@@ -1,9 +1,9 @@
 # REHOSTING
 
-Files can be found here: [Conquest of Camelot](https://github.com/project-sekai-ctf/sekaictf-2023/tree/main/reverse/conquest-of-camelot)
+Files can be found here: [Barry](https://github.com/MasonCompetitiveCyber/PatriotCTF2022-Public/tree/main/Crypto/Barry)
 
 ## Challenge Setup
-There are no dependency files for `camelot`.
+There are no dependency files for `barry.txt`.
 
 ## Flag Check
 
