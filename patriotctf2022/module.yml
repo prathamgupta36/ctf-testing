@@ -12,5 +12,5 @@ challenges:
     name: FORENSICS - 485 - Exfil
   - id: hike
     name: RECON - Hike
-  - id: cheese
+  - id: stringcheese
     name: REVERSE - StringCheese
