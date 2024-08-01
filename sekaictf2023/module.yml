@@ -1,0 +1,6 @@
+id: sekaictf2023
+name: SekaiCTF 2023
+
+challenges:
+  - id: cryptography1
+    name: CRyPTO - 100 - cryptoGRAPHy1

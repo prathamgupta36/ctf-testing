@@ -11,6 +11,8 @@ modules:
     name: BYUCTF 2023
   - id: greycattheflag2022
     name: greycattheflag2022
+  - id: sekaictf2023
+    name: SekaiCTF 2023
   # - id: fireshellctf2019
     # name: fireshellctf2019
   # - id: justctf2022
