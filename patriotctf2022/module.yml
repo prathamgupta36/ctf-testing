@@ -16,3 +16,5 @@ challenges:
     name: REVERSE - StringCheese
   - id: crackme
     name: REVERSE - CrackMe
+  - id: flowing
+    name: REVERSE - Flowing
