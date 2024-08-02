@@ -8,6 +8,8 @@ challenges:
     name: CRYPTO - Base 64 Times 10
   - id: cowsay
     name: CRYPTO - 53 - Cowsay
+  - id: cryptogod
+    name: CRYPTO - 498 - Cryptogod
   - id: bezier
     name: FORENSICS - 399 - Bézier
   - id: exfil
