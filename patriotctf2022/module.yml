@@ -10,6 +10,8 @@ challenges:
     name: FORENSICS - 399 - Bézier
   - id: exfil
     name: FORENSICS - 485 - Exfil
+  - id: greek
+    name: MISC - It's All Greek to Me
   - id: hike
     name: RECON - Hike
   - id: stringcheese
