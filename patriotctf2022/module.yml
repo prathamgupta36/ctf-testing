@@ -14,3 +14,5 @@ challenges:
     name: RECON - Hike
   - id: stringcheese
     name: REVERSE - StringCheese
+  - id: crackme
+    name: REVERSE - CrackMe
