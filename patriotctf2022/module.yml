@@ -20,3 +20,5 @@ challenges:
     name: REVERSE - CrackMe
   - id: flowing
     name: REVERSE - Flowing
+  - id: goobf
+    name: REVERSE - GoObf
