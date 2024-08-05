@@ -1,5 +1,6 @@
 id: codegatectf2013
-name: CodegateCTF2013
+name: codegatectf2013
 
 challenges:
-  - id: 
+  - id: test
+    name: test

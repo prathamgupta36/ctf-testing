@@ -14,7 +14,7 @@ modules:
   - id: patriotctf2022
     name: patriotctf2022
   - id: codegatectf2013
-    name: Codegatectf2013
+    name: codegatectf2013
   - id: sekaictf2023
     name: SekaiCTF 2023
   # - id: fireshellctf2019
