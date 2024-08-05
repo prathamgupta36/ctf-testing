@@ -12,6 +12,8 @@ challenges:
     name: CRYPTO - 498 - Cryptogod
   - id: twofifty
     name: CRYPTO - 10 - TwoFifty
+  - id: extremlycoolbook 
+    name: CRYPTO - 500 - Extremely Cool Book
   - id: bezier
     name: FORENSICS - 399 - Bézier
   - id: exfil
