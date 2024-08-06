@@ -6,3 +6,5 @@ challenges:
     name: CRYPTO - 30 - Really Secure Algorithm
   - id: runes
     name: CRYPTO - 70 - Runes
+  - id: chainofrope
+    name: BINARY - 80 - Chain of Rope
