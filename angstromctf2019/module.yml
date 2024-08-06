@@ -4,3 +4,5 @@ name: angstromctf2019
 challenges:
   - id: reallysecurealgorithm
     name: CRYPTO - 30 - Really Secure Algorithm
+  - id: runes
+    name: CRYPTO - 70 - Runes
