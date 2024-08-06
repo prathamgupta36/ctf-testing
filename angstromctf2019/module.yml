@@ -8,7 +8,7 @@ challenges:
     name: CRYPTO - 70 - Runes
   # - id: chainofrope
   #   name: BINARY - 80 - Chain of Rope ##need to check again
-  - id: Ilikeit
+  - id: like
     name: REV - 40 - I Like It
   - id: onebite
     name: REV - 60 - One Bite
