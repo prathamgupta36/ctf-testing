@@ -6,8 +6,8 @@ challenges:
     name: CRYPTO - 30 - Really Secure Algorithm
   - id: runes
     name: CRYPTO - 70 - Runes
-  # - id: chainofrope
-  #   name: BINARY - 80 - Chain of Rope ##need to check again
+  - id: chainofrope
+    name: BINARY - 80 - Chain of Rope ##need to check again
   - id: like
     name: REV - 40 - I Like It
   - id: onebite
