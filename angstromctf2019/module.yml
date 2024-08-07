@@ -22,4 +22,6 @@ challenges:
     name: MISC - 60 - Lithp
   - id: blankpaper
     name: MISC - 30 - Blank Paper
+  - id: paperbin
+    name: MISC - 40 - Paper Bin
   
