@@ -16,6 +16,8 @@ challenges:
     name: REV - 60 - One Bite
   - id: highqualitychecks
     name: REV - 110 - High Quality Checks
+  - id: icthyo
+    name: REV - 130 - Icthyo
   - id: lithp
     name: MISC - 60 - Lithp
   
