@@ -17,6 +17,8 @@ modules:
     name: angstromctf2019
   - id: sekaictf2023
     name: SekaiCTF 2023
+  - id: codegatectf2018
+    name: codegatectf2018
   # - id: fireshellctf2019
     # name: fireshellctf2019
   # - id: justctf2022
