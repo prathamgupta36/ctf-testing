@@ -2,5 +2,7 @@ id: imaginaryctf2023
 name: imaginaryctf2023
 
 challenges:
-  - id: blindguess 
-    name: CRYPTO - 495 - Blind Guess
+  - id: crypto 
+    name: FORENSICS - 458 - Crypto
+  - id: form
+    name: PWN - 423 - Form
