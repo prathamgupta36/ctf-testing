@@ -2,5 +2,5 @@ id: imaginaryctf2023
 name: imaginaryctf2023
 
 challenges:
-  - id: blinkguess 
+  - id: blindguess 
     name: CRYPTO - 495 - Blind Guess
