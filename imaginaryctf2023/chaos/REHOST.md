@@ -1,9 +1,9 @@
 # REHOSTING
 
-Files can be found here: [form](https://github.com/ImaginaryCTF/ImaginaryCTF-2023-Challenges/tree/main/Pwn/form)
+Files can be found here: [chaos](https://github.com/ImaginaryCTF/ImaginaryCTF-2023-Challenges/tree/main/Reversing/chaos)
 
 ## Challenge Setup
-There are no dependency files for `vuln`.
+There are no dependency files for `chall.py`.
 
 ## Flag Check
 
