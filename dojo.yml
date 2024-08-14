@@ -21,6 +21,8 @@ modules:
     name: imaginaryctf2023
   - id: codegatectf2018
     name: codegatectf2018
+  - id: asisctf2014
+    name: asisctf2014
   # - id: fireshellctf2019
     # name: fireshellctf2019
   # - id: justctf2022
