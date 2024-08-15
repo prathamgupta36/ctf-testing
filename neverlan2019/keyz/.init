@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo git clone https://github.com/durkinza/KeyZ.git
+sudo git clone https://github.com/durkinza/KeyZ.git /challenge
 cd /challenge/KeyZ
 sudo make
