@@ -23,6 +23,8 @@ modules:
     name: codegatectf2018
   - id: asisctf2014
     name: asisctf2014
+  - id: neverlan2019
+    name: NeverLAN CTF 2019
   # - id: fireshellctf2019
     # name: fireshellctf2019
   # - id: justctf2022
