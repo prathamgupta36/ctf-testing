@@ -2,8 +2,6 @@ id: neverlan2019
 name: NeverLAN CTF 2019
 
 challenges:
-  - id: test
-    name: test
   - id: alphabet
     name: CRYPTO - Alphabet Soup
   - id: feb14
