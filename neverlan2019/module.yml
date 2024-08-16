@@ -10,6 +10,10 @@ challenges:
     name: CRYPTO - February 14th
   - id: zerocool
     name: CRYPTO - 150 - Z3r0 C00l Bruh!
+  - id: bases
+    name: CRYPTO - Cover the BASEs
+  - id: oink
+    name: CRYPTO - Oink Oink
   - id: binary1
     name: BINARY - 100 - Binary 1
   - id: keyz
