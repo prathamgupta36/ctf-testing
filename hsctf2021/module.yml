@@ -1,0 +1,6 @@
+id: hsctf2021
+name: HSCTF2021
+
+challenges:
+  - id: test
+    name: test

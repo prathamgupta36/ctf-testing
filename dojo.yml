@@ -27,6 +27,8 @@ modules:
     name: NeverLAN CTF 2019
   - id: hsctf2020
     name: HSCTF2020
+  - id: hsctf2021
+    name: HSCTF2021
   # - id: fireshellctf2019
     # name: fireshellctf2019
   # - id: justctf2022
