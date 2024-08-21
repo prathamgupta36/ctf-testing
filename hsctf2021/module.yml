@@ -4,3 +4,9 @@ name: HSCTF2021
 challenges:
   - id: test
     name: test
+  - id: multidimensional
+    name: REV - 442 - Multidimensional
+  - id: queen
+    name: CRYPTO - 221 - queen-of-the-hill
+  - id: opisthocomus
+    name: CRYPTO - 300 - opisthocomus-hoazin
