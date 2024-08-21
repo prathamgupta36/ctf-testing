@@ -11,4 +11,4 @@ sudo -u root /challenge/opisthocomus-hoazin.py
 
 sudo chmod +x opisthocomus-hoazin.py
 
-python opisthocomus-hoazin.py > output.txt
+python /challenge/opisthocomus-hoazin.py > output.txt
