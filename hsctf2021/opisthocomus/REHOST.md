@@ -1,6 +1,6 @@
 # REHOSTING
 
-Files can be found here: [opisthocomus-hoazin](https://ctftime.org/task/16383)
+Files can be found here: [opisthocomus-hoazin](https://github.com/BaadMaro/CTF/tree/main/HSCTF%202021/Crypto%20-%20opisthocomus-hoazin)
 
 ## Challenge Setup
 There are no dependency files for `opisthocomus-hoazin.py`.
