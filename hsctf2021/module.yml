@@ -2,8 +2,6 @@ id: hsctf2021
 name: HSCTF2021
 
 challenges:
-  - id: test
-    name: test
   - id: warmup
     name: REV - 371 - warmup-rev
   - id: multidimensional
