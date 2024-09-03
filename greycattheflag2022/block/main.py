@@ -1,3 +1,5 @@
+#!/opt/pwn.college/python
+
 from Crypto.Util.Padding import pad
 
 with open('/flag', 'r') as file:
