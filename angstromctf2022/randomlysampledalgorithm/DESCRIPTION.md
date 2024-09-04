@@ -1,10 +1,7 @@
 RSA strikes strikes strikes again again again! 
 
-Use the following command to execute the Python file:
 
-```bash
-sudo python rsa.py
-```
+``Use flagCheck to input the flag you get from the challenge to get the actual flag``
 
 ---
 **Author:** lamchcl

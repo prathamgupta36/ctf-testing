@@ -1,4 +1,0 @@
-#!/bin/bash
-
-# Attempt to change path
-patchelf --set-rpath /challenge /challenge/server

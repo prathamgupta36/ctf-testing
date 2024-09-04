@@ -1,4 +1,0 @@
-In Jail!
-
----
-**Author:** Tango

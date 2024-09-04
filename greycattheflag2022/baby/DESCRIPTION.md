@@ -6,6 +6,3 @@ sudo python main.py
 
 ---
 **Author:** NUSGreyhats
-
----
-**Editor's note:** The file might take minute to run.

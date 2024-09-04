@@ -1,1 +1,0 @@
-# PatriotCTF 2023

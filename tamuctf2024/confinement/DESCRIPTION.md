@@ -1,4 +1,0 @@
-NO SYSCALLS?
-
----
-**Author:** nhwn

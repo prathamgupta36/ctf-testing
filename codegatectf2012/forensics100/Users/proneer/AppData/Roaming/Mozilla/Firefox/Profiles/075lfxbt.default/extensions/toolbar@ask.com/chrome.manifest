@@ -1,3 +1,0 @@
-content asktoolbar chrome/content/
-overlay chrome://browser/content/browser.xul chrome://asktoolbar/skin/toolbar.xul
-skin asktoolbar classic/1.0 chrome/skin/

@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod +x gpp-decrypt.zip
+unzip gpp-decrypt.zip
+#attempt to install colorama
+pip install colorama

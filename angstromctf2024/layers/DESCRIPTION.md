@@ -1,4 +1,0 @@
-layers
-
----
-**Author:** BrownieInMotion

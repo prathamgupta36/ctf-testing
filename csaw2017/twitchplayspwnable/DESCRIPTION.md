@@ -1,1 +1,0 @@
-**Author:** CSAW CTF Organizers

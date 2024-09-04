@@ -1,5 +1,0 @@
-#!/bin/bash
-
-# Attempt to create a symboliclink
-ln -s /flag ./flag 2>/dev/null
- 
