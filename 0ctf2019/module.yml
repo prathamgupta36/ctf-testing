@@ -1,0 +1,24 @@
+id: 0ctf2019
+name: 0CTF/TCTF 2019 Quals
+
+challenges:
+  - id: zerotask
+    name: PWN - 132 - Zero Task
+  - id: babyaegis
+    name: PWN - 323 - Baby Aegis
+  - id: plang
+    name: PWN - 354 - Plang
+  - id: scanner
+    name: PWN - 478 - Scanner
+  - id: babyheap
+    name: PWN - 550 - Baby Heap
+  - id: babysandbox
+    name: PWN - 1000 - Baby Sandbox
+  - id: flropyd
+    name: ROP - 366 - Flropyd
+  - id: elements
+    name: REV - 107 - Elements
+  - id: babyrsa
+    name: CRYPTO - 107 - Baby RSA
+    visibility:
+      start: "2029-08-21T10:30:00-07:00"

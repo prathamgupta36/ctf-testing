@@ -1,0 +1,20 @@
+id: backdoorctf2019
+name: BackdoorCTF 2019
+
+challenges:
+  - id: echo
+    name: PWN - 100 - Echo
+  - id: forgot
+    name: PWN - 200 - Forgot
+  - id: babytcache
+    name: PWN - 201 - Babytcache
+  - id: babyheapbackdoorctf
+    name: PWN - 286 - Babyheap
+  - id: matrix
+    name: PWN - 350 - Enter the Matrix
+  - id: miscpwn
+    name: PWN - 405 - MiscPwn
+  - id: team
+    name: PWN - 600 - Team
+  - id: rsanne
+    name: CRYTPO - 350 - RSANNE 

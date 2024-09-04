@@ -1,0 +1,16 @@
+id: 0ctf2018
+name: 0CTF/TCTF 2018
+
+challenges:
+  - id: freenote2018
+    name: PWN - Free Note
+  - id: babyheap2018
+    name: PWN - 183 - Baby Heap
+  - id: blackhole
+    name: PWN - 250 - Blackhole
+  - id: subtraction
+    name: MISC - 343 - Math Game
+  - id: zerofs
+    name: PWN - 478 - Zer0 FS
+  - id: heapstorm
+    name: PWN - 785 - Heap Storm II

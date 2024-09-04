@@ -1,0 +1,24 @@
+id: 29c3ctf2012
+name: 29c3 CTF 2012
+
+challenges:
+  - id: findthekey
+    name: REV - 300 - Find the key
+  - id: maya
+    name: REV - 300 - Maya
+  - id: minesweeper
+    name: EXPLOIT - 100 - minesweeper
+  - id: memcached
+    name: EXPLOIT - 600 - memcached
+  - id: ru1337
+    name: EXPLOIT - 200 - ru1337
+    visibility: 
+      start: "2029-08-21T10:30:00-07:00"
+  - id: updateserver
+    name: EXPLOIT - 300 - Update Server
+    visibility: 
+      start: "2029-08-21T10:30:00-07:00"
+  - id: proxy
+    name: EXPLOIT - 400 - Proxy
+    visibility: 
+      start: "2029-08-21T10:30:00-07:00"

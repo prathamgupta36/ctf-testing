@@ -1,0 +1,22 @@
+id: codegatectf2012
+name: Codegate CTF 2012
+
+challenges:
+  - id: bin100
+    name: BINARY - 100
+  - id: bin200
+    name: BINARY - 200
+  - id: bin300
+    name: BINARY - 300
+  - id: bin400
+    name: BINARY - 400
+  - id: bin500
+    name: BINARY - 500
+  - id: forensics100
+    name: FORENSICS - 100
+  - id: forensics200
+    name: FORENSICS - 200
+  - id: forensics300
+    name: FORENSICS - 300
+  - id: vuln500
+    name: VULNERABILITY - 500

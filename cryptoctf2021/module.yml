@@ -1,0 +1,32 @@
+id: cryptoctf2021 
+name: Crypto CTF 2021
+
+challenges:
+  - id: farm
+    name: CRYPTO - 43 - Farm
+  - id: rima
+    name: CRYPTO - 56 - Rima
+  - id: hypernormal
+    name: CRYPTO - 71 - Hyper Normal
+  - id: hamul
+    name: CRYPTO - 83 - Hamul
+  - id: triplet
+    name: CRYPTO - 91 - Triplet
+  - id: improved
+    name: CRYPTO - 117 - Improved
+  - id: wolf
+    name: CRYPTO - 128 - Wolf
+  - id: frozen
+    name: CRYPTO - 142 - Frozen
+  - id: tinyecc
+    name: CRYPTO - 217 - Tiny ECC
+  - id: elegant
+    name: CRYPTO - 217 - Elegant Curve
+  - id: ecchimera
+    name: CRYPTO - 271 - Ecchimera
+  - id: trunc
+    name: CRYPTO - 334 - TRUNC
+  - id: dorsa
+    name: CRYPTO - 450 - DoRSA
+  - id: lower
+    name: CRYPTO - Lower

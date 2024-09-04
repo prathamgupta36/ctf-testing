@@ -1,5 +1,5 @@
 id: angstromctf2022 
-name: angstromctf2022
+name: ångstromctf 2022
 
 challenges:
   - id: caesaranddesister
@@ -22,5 +22,3 @@ challenges:
     name: REV - 100 - dyn
   - id: uninspired
     name: REV - 100 - uninspired
-  - id: baby3
-    name: REV - 40 - baby3

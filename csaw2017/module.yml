@@ -1,0 +1,32 @@
+id: csaw2017
+name: CSAW 2017 Quals
+
+challenges:
+  - id: scv
+    name: PWN - 100 - SCV
+  - id: pilot
+    name: PWN - 100 - Pilot
+  - id: cvv
+    name: PWN - 100 - CVV
+  - id: auir
+    name: PWN - 200 - Auir
+  - id: zone
+    name: PWN - 300 - Zone
+  - id: minesweeper
+    name: PWN - 500 - Minesweeper
+  - id: tablez
+    name: REV - 100 - Tablez
+  - id: prophecy
+    name: REV - 200 - Prophecy
+  - id: grumpcheck
+    name: REV - 300 - Grumpcheck
+  - id: bananascript
+    name: REV - 450 - Banana Script
+  - id: almostxor
+    name: CRYPTO - 200 - Almost Xor
+  - id: babycrypt
+    name: CRYPTO - 350 - Baby Crypt
+  - id: serial
+    name: MISC - 50 - Serial
+  - id: twitchplayspwnable
+    name: MISC - 100 - twitchplayspwnable

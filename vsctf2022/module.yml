@@ -1,0 +1,10 @@
+id: vsctf2022
+name: vsCTF 2022
+
+challenges:
+  - id: tuningtest
+    name: PWN - 488 - Tuning Test
+  - id: ezorange
+    name: PWN - 490 - EzOrange
+  - id: privatebank
+    name: Private Bank

@@ -1,0 +1,14 @@
+id: gitsctf2012
+name: Ghost in the Shellcode 2012
+
+challenges:
+  - id: pwn200
+    name: PWN - 200
+  - id: pwn300
+    name: PWN - 300
+  - id: crypto250
+    name: CRYPTO - 250
+  - id: rev400
+    name: REV - 400
+  - id: trivia25
+    name: TRIVIA - 25

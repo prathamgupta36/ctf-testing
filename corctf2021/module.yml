@@ -1,0 +1,26 @@
+id: corctf2021
+name: corCTF 2021
+
+challenges:
+  - id: chainblock
+    name: PWN - 394 - ChainBlock
+  - id: cshell
+    name: PWN - 459 - CShell
+  - id: fibinary
+    name: CRYPTO - 205 - Fibinary
+  - id: fourninesix
+    name: CRYPTO - 360 - 4096
+  - id: babyrand
+    name: CRYPTO - 487 - Babyrand
+  - id: lcg
+    name: CRYPTO - 489 - LCG-k
+  - id: bank
+    name: CRYPTO - 489 - Bank
+  - id: friedrice
+    name: CRYPTO - 497 - Fried Rice
+  - id: chance
+    name: CRYPTO - 498 - Leave it to chance
+  - id: babyrev
+    name: REV - 372 - BabyRev
+  - id: vmquack
+    name: REV - 499 - vmquack

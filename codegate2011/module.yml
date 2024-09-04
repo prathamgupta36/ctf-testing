@@ -1,0 +1,38 @@
+id: codegate2011
+name: Codegate CTF 2011
+
+challenges:
+  - id: network100
+    name: WEB - 100 - Network
+  - id: crypto200
+    name: CRYTPO - 200
+  - id: crypto300
+    name: CRYTPO - 300
+  - id: crypto400
+    name: CRYTPO - 400
+  - id: crypto500
+    name: CRYTPO - 500 
+  - id: binary100
+    name: BINARY - 100
+  - id: binary200
+    name: BINARY - 200
+  - id: binary300
+    name: BINARY - 300
+  - id: binary400
+    name: BINARY - 400
+    visibility: 
+      start: "2029-08-21T10:30:00-07:00"
+  - id: binary500
+    name: BINARY - 500
+  - id: forensics200
+    name: FORENSICS - 200
+    visibility: 
+      start: "2029-08-21T10:30:00-07:00"
+  - id: forensics300
+    name: FORENSICS - 300
+    visibility: 
+      start: "2029-08-21T10:30:00-07:00"
+  - id: forensics400
+    name: FORENSICS - 400
+    visibility: 
+      start: "2029-08-21T10:30:00-07:00"

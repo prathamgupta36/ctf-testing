@@ -1,0 +1,30 @@
+id: patriotctf2023
+name: PatriotCTF 2023
+
+resources:
+  - name: PatriotCTF Resources
+    type: markdown
+    content: |
+      These are the binary files for the challenges.
+      - [Binary Files](https://github.com/sajjadium/ctf-archives/tree/main/ctfs/PatriotCTF/2023)
+      
+      These are the original files given during the challenges. 
+      - [Original](https://github.com/MasonCompetitiveCyber/PatriotCTF2023/tree/main/pwn)
+
+challenges:
+  - id: guessinggame
+    name: PWN - 100 - Guessing Game
+  - id: printshop
+    name: PWN - 166 - Print Shop
+  - id: bookshelf
+    name: PWN - 166 - Book Shelf
+  - id: bookshelf2
+    name: PWN - 200 - Book Shelf 2
+  - id: softshell
+    name: PWN - 494 - Soft Shell
+  - id: breakfastclub
+    name: CRYPTO - 166 - Breakfast Club
+    visibility: 
+      start: "2029-08-21T10:30:00-07:00"
+  - id: flagfinder
+    name: MISC - 130 - Flag Finder

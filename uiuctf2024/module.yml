@@ -1,0 +1,8 @@
+id: uiuctf2024
+name: UIUCTF 2024
+
+challenges:
+  - id: syscalls
+    name: PWN - 500 - Syscalls
+    visibility: 
+      start: "2029-08-21T10:30:00-07:00"

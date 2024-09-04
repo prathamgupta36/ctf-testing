@@ -1,0 +1,26 @@
+id: csawctf2014
+name: CSAW CTF 2014
+
+challenges:
+  - id: eggshells
+    name: REV - 100 - Egg Shells
+  - id: aerosol
+    name: REV - 500 - aerosol can
+  - id: bo
+    name: EXPLOITATION - 100 - The Road Less Traveled/bo
+  - id: ish
+    name: EXPLOITATION - 300 - Ish
+  - id: s3
+    name: EXPLOITATION - 300 - S3
+  - id: saturn
+    name: EXPLOITATION - 400 - Saturn
+  - id: cfbsum
+    name: CRYPTO - 300 - cfbsum
+  - id: feal
+    name: CRYPTO - 300 - Feal
+  - id: bigdata
+    name: WEB - 100 - Big Data
+  - id: obscurity
+    name: FORENSICS - 200 - Obscurity
+    visibility:
+      start: "2029-08-21T10:30:00-07:00"

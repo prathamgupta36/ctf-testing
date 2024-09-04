@@ -1,0 +1,28 @@
+id: imaginaryctf2022
+name: ImaginaryCTF 2022
+
+challenges:
+  - id: fmtfun
+    name: PWN - 200 - Format String Fun
+  - id: desrever
+    name: REV - 100 - Desrever
+  - id: stream
+    name: CRYPTO - 50 - Stream
+  - id: emoji
+    name: CRYPTO - 100 - Emoji
+  - id: smoll
+    name: CRYPTO - 100 - Smoll
+  - id: secureencodinghex
+    name: CRYPTO - 150 - Secure Encoding Hex
+  - id: otp
+    name: CRYPTO - 150 - OTP
+  - id: hash
+    name: CRYPTO - 150 - Hash
+  - id: cbc
+    name: CRYPTO - 200 - CBC
+  - id: livingwithoutexpectations
+    name: CRYPTO - 492 - Living Without Expectations
+  - id: secureencoding
+    name: CRYPTO - 492 - Secure Encoding Base64
+  - id: poker
+    name: CRYPTO - 495 - Poker

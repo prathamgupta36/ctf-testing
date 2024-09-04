@@ -1,0 +1,16 @@
+id: cryptoctf2020
+name: Crypto CTF 2020
+
+challenges:
+  - id: trailingbits
+    name: CRYPTO - 29 - Trailing Bits
+  - id: amsterdam
+    name: CRYPTO - 55 - Amsterdam
+  - id: threeravens
+    name: CRYPTO - 90 - Three Ravens
+  - id: onelinecrypto
+    name: CRYPTO - 142 - One Line Crypto
+  - id: complextohell
+    name: CRYPTO - 285 - Complex To Hell
+  - id: fatima
+    name: CRYPTO - 316 - Fatima
