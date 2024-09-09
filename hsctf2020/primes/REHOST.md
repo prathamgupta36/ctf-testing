@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Primes](https://github.com/Herbrant/HSCTF7-writups/tree/master/misc/primes)
-
-## Challenge Setup
-There are no dependency files for `Primes.txt`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:9af25e7fd567007841f03aa751fcec20133ba357566e9a5ed4441a640898cca0
+size 409

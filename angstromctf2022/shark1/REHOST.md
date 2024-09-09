@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Shark 1](https://2022.angstromctf.com/challenges)
-
-## Challenge Setup
-There are no dependecy files for `shark1.pcapng`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c905686525fc1c987482918867b5d8ea6d00a402a94bc30362bcb58111bf92b
+size 386

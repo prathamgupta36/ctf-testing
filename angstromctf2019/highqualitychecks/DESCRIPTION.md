@@ -1,4 +1,3 @@
-After two break-ins to his shell server, kmh got super paranoid about a third! He's so paranoid that he abandoned the traditional password storage method and came up with this monstrosity! I reckon he used the flag as the password, can you find it?
-
----
-**Author:** Aplet123
+version https://git-lfs.github.com/spec/v1
+oid sha256:0afdf563ce6c27e905b35e3d8ffa9e9a5589b6961cfe90fdd00c494ccaca5fb6
+size 364

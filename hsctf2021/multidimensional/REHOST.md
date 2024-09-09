@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Multidimensional](https://github.com/BASHing-thru-challenges/HSCTF-2021-Writeups/tree/main/rev/multidimensional)
-
-## Challenge Setup
-There are no dependency files for `Multidimensional.java`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ea84f835043e1349c7984d42711f649910a0e79f25bd3a678fa8a162f802d14
+size 457

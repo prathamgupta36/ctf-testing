@@ -1,8 +1,3 @@
-A user accidentally installed malware on their computer and now the user database is unavailable. Can you recover the data and the flag?
-
-Flag is All Caps
-
-```Run flagCheck and input the flag you get from the challenge for pwn.college flag```
-
----
-**Author:** NeverLAN
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbffef832a1a7f4f092bf1557e24457d4f93d158cbbfc2f63c2b7e33ba898123
+size 265

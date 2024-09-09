@@ -1,10 +1,3 @@
-Wait, why isn't it a species of bird this time?
-
-Use the following command to execute the Python file:
-
-```bash
-sudo python canis-lupus-familiaris-bernardus.py
-```
-
----
-**Author:** HSN CS Club
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3d904ecd55e9e733e4ff612ee88f6b7c0ae700855845ae97049848fb6991c5f
+size 193

@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [aptenodytes-forsteri](https://github.com/BaadMaro/CTF/blob/main/HSCTF%202021/Crypto%20-%20aptenodytes-forsteri/README.md)
-
-## Challenge Setup
-There are no dependency files for `aptenodytes-forsteri.py` or `output.txt`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:7efe7ab27114859ee90dfd97073f813c0137e34c8790af9aa73962e0bce96a72
+size 484

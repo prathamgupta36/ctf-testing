@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Randomly Sampled Algorithm](https://2022.angstromctf.com/challenges)
-
-## Challenge Setup
-There are no dependecy files for `rsa.py` or `output.txt`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9357a30cc0cc331278ef82f5f00ef5ab6d83dc80f77d09a3a9ff6050a58cbd0
+size 986

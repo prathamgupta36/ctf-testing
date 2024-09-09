@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [I Like It](https://2019.angstromctf.com/challenges)
-
-## Challenge Setup
-There are no dependency files for `i_like_it`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:4974e636fbcf3a831c430ffdf7cd3700437c1f943eea5ea33d1396e9b553da85
+size 396

@@ -1,16 +1,3 @@
-After finding a special key of the Hill, which contains a note to visit the Queen of the Hill, our brave Amanda begins her adventure to find the Queen of the Hill’s treasure. How shall she meet the Queen of the Hill? (a=0)
-
-Cipher text: rtca{vbuhp_kaiq_gfj_nx_rda_ujw}
-
-Encryption key:
-
-16 25 8
-
-14 19 5
-
-15 17 3
-
-`Use flagCheck to input the flag you get from the challenge to get the actual flag`
-
----
-**Author:** wooshi
+version https://git-lfs.github.com/spec/v1
+oid sha256:d303cfd48e3c7d39029ed06585a71174bff0de16d38e789c3b27601b7ec28550
+size 424

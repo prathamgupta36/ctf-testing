@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [uninspired](https://2022.angstromctf.com/challenges)
-
-## Challenge Setup
-There are no dependecy files for `uninspired`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:681875de652da5871a4c468eae2f4d2e084d52de1f145c1d744af55aefa5dc77
+size 386

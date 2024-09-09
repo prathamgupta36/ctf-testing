@@ -1,8 +1,3 @@
-My friend gave this program to me, but I’m not sure what it means.
-
-Note: Your output will have to be parsed into decimal representations of ASCII characters.
-
-```Run flagCheck and input the flag you get from the challenge for pwn.college flag```
-
----
-**Author:** AC
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aa22fa2f7137805e50170973e86d268fcace0ea5013761566983df0cb3d9cdb
+size 266

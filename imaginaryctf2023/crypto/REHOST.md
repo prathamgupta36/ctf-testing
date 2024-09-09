@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [crypto](https://github.com/ImaginaryCTF/ImaginaryCTF-2023-Challenges/tree/main/Forensics/crypto)
-
-## Challenge Setup
-There are no dependency files for `crypto.zip`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:a520be676c49d1f0e8568176f7913f1907991c6ae60a521b46417d5f8182db3f
+size 431

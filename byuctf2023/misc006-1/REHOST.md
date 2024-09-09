@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [006-1](https://github.com/BYU-CSA/BYUCTF-2023/tree/main/006-1)
-
-## Challenge Setup
-There are no dependency files for `006_1.txt`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4a8d02b55ef24c2304e3c6819ef9f79e0859378537af792aaec4d4dafe3b933
+size 396

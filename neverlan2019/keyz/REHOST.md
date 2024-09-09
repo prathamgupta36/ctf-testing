@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [It's to KeyZ](https://github.com/str0nkus/NeverlanCTF-2019-Writeups/blob/master/Recon/Its_to_KeyZ/README.md)
-
-## Challenge Setup
-There are no dependency files for `passwords.keyz`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1bd943c40f916fe9a67c0d6bb49f0aa7e98e080e8f96ecc771ff83f2ea5ed89
+size 446

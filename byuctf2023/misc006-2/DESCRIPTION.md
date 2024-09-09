@@ -1,8 +1,3 @@
-You did well recovering the first password, but unfortunately as our hackers were accessing their system the enemies IDS spotted them and they were blocked. We know that Janus reset his password, because we intercepted a different password hash on their network. We can expect that he made this one a bit trickier to guess. Can you crack it in time for us to stop him?
-
-Flag format - `byuctf{cracked_password}`
-
-``Use flagCheck to input the flag you get from the challenge to get the actual flag``
-
----
-**Author:** BYU Cyberia
+version https://git-lfs.github.com/spec/v1
+oid sha256:15bc43f8feac1350e255a101fb5c26e2afa485ec8300635abff7e209368be6e1
+size 527

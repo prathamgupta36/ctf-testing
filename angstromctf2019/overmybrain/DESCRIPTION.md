@@ -1,10 +1,3 @@
-Everyone knows I'm in over my brain, over my brain ... with this esolang. With eight seconds left in overtime, it's on your mind, it's on your mind ... the source, of course!
-
-Use the following command to execute the Binary file:
-
-```bash
-sudo ./over_my_brain
-```
-
----
-**Author:** defund, lamchcl
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d0b671168a8946e5db0cd8bb921d53f4645d4f429b8aa1098c765c455a674e5
+size 305

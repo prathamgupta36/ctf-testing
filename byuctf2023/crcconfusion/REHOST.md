@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [CRConfusion](https://github.com/BYU-CSA/BYUCTF-2023/tree/main/CRConfusion)
-
-## Challenge Setup
-There are no dependency files for `crc1.txt` or `crc2.txt` or `crc3.txt`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fd5031cab26763c7bd6ae3254f7b70c37899ad0bf77e1fcacfed403dab5758d
+size 435

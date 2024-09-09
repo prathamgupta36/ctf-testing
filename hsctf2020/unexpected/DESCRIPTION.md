@@ -1,6 +1,3 @@
-Alice, Bob, and Carol are really close friends; in fact, they are so close, they even share the same primes in their RSA public keys! Alice has N = P*Q, Bob has N = QR, and Carol has N = PR, where P,Q,R are 1024 bit primes. All three also use the same public exponent e = 65537. Can you recover the three ciphertexts?
-
-```Run flagCheck and input the flag you get from the challenge for pwn.college flag```
-
----
-**Author:** HSN CS Club
+version https://git-lfs.github.com/spec/v1
+oid sha256:209ca19fb164e05d8d79835c37f6afbff0829c9ec3a1cab032410d24d81efc4a
+size 432

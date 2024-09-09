@@ -1,15 +1,3 @@
-# REHOSTING
-
-Files can be found here: [TwoFifty](https://github.com/MasonCompetitiveCyber/PatriotCTF2022-Public/tree/main/Crypto/TwoFifty)
-
-## Challenge Setup
-There are no dependency files for `twofifty.txt`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bd15f7343f3d6837633738fa3bebd8598717e3039774381809111664ae89733
+size 438

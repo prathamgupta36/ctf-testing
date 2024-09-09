@@ -1,16 +1,3 @@
-id: greycattheflag2022
-name: greycattheflag2022
-
-challenges:
-  - id: baby
-    name: CRYPTO - baby
-  - id : block
-    name: CRYPTO - Block
-  - id: catino
-    name: CRYPTO - Catino
-  - id: dot
-    name: CRYPTO - Dot
-  - id: calculator
-    name: MISC - Calculator
-    
-  
+version https://git-lfs.github.com/spec/v1
+oid sha256:67a085c1b1f726575088f02867e95ee787e3a332684a139c3874e99482fb870d
+size 264

@@ -1,27 +1,3 @@
-id: angstromctf2019
-name: angstromctf2019
-
-challenges:
-  - id: reallysecurealgorithm
-    name: CRYPTO - 30 - Really Secure Algorithm
-  - id: runes
-    name: CRYPTO - 70 - Runes
-  - id: chainofrope
-    name: BINARY - 80 - Chain of Rope 
-  - id: overmybrain
-    name: BINARY - 150 - Over My Brain
-  - id: like
-    name: REV - 40 - I Like It
-  - id: onebite
-    name: REV - 60 - One Bite
-  - id: highqualitychecks
-    name: REV - 110 - High Quality Checks
-  - id: icthyo
-    name: REV - 130 - Icthyo
-  - id: lithp
-    name: MISC - 60 - Lithp
-  - id: blankpaper
-    name: MISC - 30 - Blank Paper
-  - id: paperbin
-    name: MISC - 40 - Paper Bin
-  
+version https://git-lfs.github.com/spec/v1
+oid sha256:572ab860602f7453784df634e155b4328cb959c89cef2ecdf0938c69db1608b8
+size 673

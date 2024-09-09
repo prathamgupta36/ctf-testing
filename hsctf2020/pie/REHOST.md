@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Apple Pie](https://github.com/Herbrant/HSCTF7-writups/tree/master/misc/apple-pie)
-
-## Challenge Setup
-There are no dependency files for `ApplePie.pie`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b1afb078c0cfd1d9fbe8e87dcb3e38aee644ff1b464391d10594f5ae9894ece
+size 417

@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [rsa](https://github.com/ImaginaryCTF/ImaginaryCTF-2023-Challenges/tree/main/Crypto/rsa)
-
-## Challenge Setup
-There are no dependency files for `flag.enc` or `private.pem` or `public.pem`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:71855c2a230c9ba0646eb668a6095cfa7eed43735b1b1ff7d199cad53b78f106
+size 453

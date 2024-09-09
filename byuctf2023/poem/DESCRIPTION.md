@@ -1,10 +1,3 @@
-epcndkohlxfgvenkzcllkoclivdckskvpkddcyoceipkvrcslkdhycbcscwcsc
-
-Spaces and punctuation were removed :)
-
-`Flag format - byuctf{the phrase goes here} note there are spaces in the flag, no other punctuation needed.`
-
-``Use flagCheck to input the flag you get from the challenge to get the actual flag``
-
----
-**Author:** BYU Cyberia
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9b671ec3e90bdb1452910dcd2330f63f772a3c72d59e1572869a77293d2f99c
+size 329

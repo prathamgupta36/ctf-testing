@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [XORed](https://github.com/0xw3bs3c/HSCTF2020/tree/master/crypto/xored)
-
-## Challenge Setup
-There are no dependency files for `XORed.txt`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:287bdd5c837386ef9b10f2e2281e3032972cf70a5b79abe1720f95ef68f2a446
+size 403

@@ -1,6 +1,3 @@
-Can you authenticate yourself to this service and steal the secret access code?
-
----
-**Author:** Daniel Getter (NihilistPenguin)
-
-**Editor's Note:** Run the challenge by ./ECB and then nc localhost 8000
+version https://git-lfs.github.com/spec/v1
+oid sha256:474b73169f56e4f6c207f51c64f5d8d9dab859b8bbb77bae55069279f02ad366
+size 288

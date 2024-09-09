@@ -1,4 +1,3 @@
-The year is 20XX. ångstromCTF only has pwn challenges, and the winner is solely determined by who can establish a socket connection first. In the data remnants of an ancient hard disk, we've recovered a string of letters and digits. The only clue is the etching on the disk's surface: Paillier.
-
----
-**Author:** defund
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d0e75fd2dcd3ebee7083306aabfc0d1dc3be1bdd7c35e064da6f8998dd54746
+size 409

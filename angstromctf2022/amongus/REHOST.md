@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [amongus](https://2022.angstromctf.com/challenges)
-
-## Challenge Setup
-There are no dependecy files for `amongus.tar.gz`
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3973d67e417daefc79bf82e983a7c8e5e0ffa52c87d5fd30ab029996acc7097
+size 386

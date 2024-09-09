@@ -1,6 +1,3 @@
-The AP English Language activity will ask you to reverse a program about manipulating strings and arrays. Again, an output will be given where you have to reconstruct an input.
-
-```Run flagCheck and input the flag you get from the challenge for pwn.college flag```
-
----
-**Author:** AC
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aba4ca9b7550be21ff8a817907460a066ee6aca30c2ff18900218db0e56d433
+size 282

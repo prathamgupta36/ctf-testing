@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [snailchecker](https://github.com/ImaginaryCTF/ImaginaryCTF-2023-Challenges/tree/main/Reversing/snailchecker)
-
-## Challenge Setup
-There are no dependency files for `check.py`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:84e5688509e783cf10a6a03e0cd6e8cc5b138b0f78b8dd3f16025371188caf9c
+size 441

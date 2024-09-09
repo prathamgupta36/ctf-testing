@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [signpost](https://github.com/ImaginaryCTF/ImaginaryCTF-2023-Challenges/tree/main/Misc/signpost)
-
-## Challenge Setup
-There are no dependency files for `signpost.png`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:899b1ec2abff3a663bc727b420200ae286ced24932df2a00b84be56b10f3fcd0
+size 432

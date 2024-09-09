@@ -1,7 +1,3 @@
-It looks like N30 has been keeping passwords secret with some software he wrote,but he should know better than to rely on proprietary software for security.
-It looks like he left the repo public too!
-
-```Run flagCheck and input the flag you get from the challenge for pwn.college flag```
-
----
-**Author:** NeverLAN 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1192ff8ddb24b57d44b65493ebe2ad7e004e6f5b67a8bdb1c6fcc9e302b288c5
+size 312

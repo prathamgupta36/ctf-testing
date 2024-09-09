@@ -1,11 +1,3 @@
-## Welcome to BYUCTF 2023
-
-The second iteration of BYUCTF will be held in May of 2023! The CTF will have beginner- to intermediate-level challenges during the 36-hour period. Categories will include web, crypto, OSINT, forensics, rev, pwn, jail, and misc. There is no team size limit.
-
-
----
-**Original Date:** Fri, 19 May 2023, 17:00 UTC — Sun, 21 May 2023, 05:00 UTC<br>
-**Original URL:** [https://cyberjousting.com/](https://cyberjousting.com/)<br>
-**CTFtime Entry:** [BYUCTF 2023](https://ctftime.org/event/1935)<br>
-**Original Team:** [BYU Cyberia](https://ctftime.org/team/155711)<br>
-**Original Git Repository:** [https://github.com/BYU-CSA/BYUCTF-2023](https://github.com/BYU-CSA/BYUCTF-2023)<br>
+version https://git-lfs.github.com/spec/v1
+oid sha256:26b980bd8637ac05ca484b1d3ed55576c0a85c1d3121572c3624fd48e71b3300
+size 705

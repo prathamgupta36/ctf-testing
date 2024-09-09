@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Hexadecalingo](https://github.com/BYU-CSA/BYUCTF-2023/tree/main/hexadecalingo)
-
-## Challenge Setup
-There are no files for this challenge.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbab4d58b9419b37d01fb28f97e1bd9399a8d716f2081e6534038b867bf70e41
+size 404

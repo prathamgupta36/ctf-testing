@@ -1,16 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Over My Brain](https://2019.angstromctf.com/challenges)
-
-## Challenge Setup
-There are no dependency files for `over_my_brain` or `over_my_brain.c`.
-
-## Flag Linking
-This challenge calls a flag file in the current directory so had to link the flag with /flag which is the pwn.college text:
-Checks if the file flag.txt exists and if not then it creates a link between flag.txt and /flag
-```
-#!/bin/bash
-
-# Attempt to create a symboliclink
-ln -s /flag /challenge/flag.txt 2>/dev/null
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3d7e9414eca7b8d083af9c6f167ae0af574c9a76e9ee150a06ea7d87027ae73
+size 537

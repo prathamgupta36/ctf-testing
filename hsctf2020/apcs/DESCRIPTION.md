@@ -1,6 +1,3 @@
-This activity will ask you to reverse a basic program and solve an introductory reversing challenge. You will be given an output that is to be used in order to reconstruct the input, which is the flag.
-
-```Run flagCheck and input the flag you get from the challenge for pwn.college flag```
-
----
-**Author:** AC
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4bebca4fcbfbdf86fe0ba4190f41dedc0d7d4bd66dcffc97038401af6451e9
+size 307

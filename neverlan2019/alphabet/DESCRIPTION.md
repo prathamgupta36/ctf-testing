@@ -1,6 +1,3 @@
-MKXU IDKMI DM BDASKMI NLU XCPJNDICFQ! K VDMGUC KW PDT GKG NLKB HP LFMG DC TBUG PDTC CUBDTCXUB. K'Q BTCU MDV PDT VFMN F WAFI BD LUCU KN KB WAFI GDKMINLKBHPLFMGKBQDCUWTMNLFMFMDMAKMUNDDA
-
-```Run flagCheck and input the flag you get from the challenge for pwn.college flag```
-
----
-**Author:** NeverLAN
+version https://git-lfs.github.com/spec/v1
+oid sha256:10755000cea72ab1a208a53f87c75a55d306268ff997fbf4dfd063ee75525fcf
+size 294

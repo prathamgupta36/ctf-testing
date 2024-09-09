@@ -1,8 +1,3 @@
-Here's a warmup cryptography challenge. Reverse the script, decrypt the output, submit the flag.
-
-```Run flagCheck and input the flag you get from the challenge for pwn.college flag```
-
-`Editor's Note:` You cannot run the python file, but the output is provided in output.txt
-
----
-**Author:** AC
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b17021623af2fe3c1cd04aba8c2ade8d76d5af93dbf05007f2317ed8b40301c
+size 296

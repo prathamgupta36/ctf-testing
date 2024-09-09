@@ -1,22 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Calculator](https://github.com/NUSGreyhats/greyctf-2022-public/tree/main/challenges/misc/calculator)
-
-## Challenge Setup
-There are no dependency files for `main.py` but edited the `main.py` to open `/flag` and have set the permissions in the .init file
-
-
-## Flag Permissions
-This challenge officially uses `flag.txt` file in the current working directory for the flag but as [`pwn.college`](https//:pwn.college.com) uses `/flag`, we changed the file to use that custom flag instead which made us provide python and the source file the permissions to open the flag. The restriction on python was it can only run the source file as sudo to open the flag. This is the bash script written for it and we make sure it is run before every new challenge is started:
-```
-#!/bin/bash
-echo "hacker ALL=(ALL:ALL) NOPASSWD: /challenge/main.py" > /etc/sudoers.d/hacker
-echo "hacker ALL=(ALL:ALL) NOPASSWD: /usr/bin/python main.py" > /etc/sudoers.d/hacker
-
-chmod 0440 /etc/sudoers.d/hacker
-
-chmod 4755 /usr/bin/sudo
-
-sudo -u root /challenge/main.py
-
-sudo chmod +x main.py
+version https://git-lfs.github.com/spec/v1
+oid sha256:a79f68dc29d9279b576baeacbb4296f24492d52395c994f95aa17a1d0f279db4
+size 1095

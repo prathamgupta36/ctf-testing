@@ -1,6 +1,3 @@
-It's time to break through portals and get multidimensional! Can you cross through all 3 (or 4?) dimensions?
-
-```Run flagCheck and input the flag you get from the challenge for pwn.college flag```
-
----
-**Author:** HSN CS Club
+version https://git-lfs.github.com/spec/v1
+oid sha256:448a051ca689f6f138d8c8919e84937913356cb5eb421db9d37320cd00c6c366
+size 226

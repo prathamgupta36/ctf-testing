@@ -1,10 +1,3 @@
-defund found out about this cool new dark web browser! While he was browsing the dark web he came across this service that sells rope chains on the black market, but they're super overpriced! He managed to get the source code. Can you get him a rope chain without paying?
-
-Use the following command to execute the Binary file:
-
-```bash
-sudo ./chain_of_rope
-```
-
----
-**Author:** Aplet123
+version https://git-lfs.github.com/spec/v1
+oid sha256:80d504b05cc4cec53e77a7ec2634416055c8ad55dcc1366e37e56a71604497ac
+size 395

@@ -1,4 +1,3 @@
-#!/bin/bash
-
-sudo apt-get install poppler-utils -y
-sudo apt install foremost
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d523cf19959a88a932969a6fce2f690e2811fcb4d76c1298c167f13a015f70a
+size 76

@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-
-import os
-
-key = [line.strip() for line in open("private.pem", "rb").readlines()[1:-1]]
-c = open("core.raw", "rb").read() # coredump of `python3 script.py`
-
-for line in key:
-  c = c.replace(line, b"A"*len(line))
-
-open("core", "wb").write(c)
-
-os.system("openssl rsautl -encrypt -inkey public.pem -pubin -in flag.txt -out flag.enc")
+version https://git-lfs.github.com/spec/v1
+oid sha256:b58c20fe1b8b2aa38cfae865ebb59f7851073a7fb1432a5c8b208d56b81bb879
+size 355

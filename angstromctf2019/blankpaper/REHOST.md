@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Blank Paper](https://2019.angstromctf.com/challenges)
-
-## Challenge Setup
-There are no dependency files for `blank_paper.pdf`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:a85313a66ccd927d021588d8c6788f8ec892089fa306382e41c499ac48c04b0a
+size 392

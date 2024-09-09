@@ -1,7 +1,3 @@
-flag = open('flag.txt','r').read() #open the flag
-assert flag[0:5]=="flag{" and flag[-1]=="}" #flag follows standard flag format
-letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-encoded = ""
-for character in flag[5:-1]:
-    encoded+=letters[(letters.index(character)+18)%26] #encode each character
-print(encoded)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bf18e2c8c9525f03b830291047fb00942b35d9b91feb2751680d97329aef749
+size 303

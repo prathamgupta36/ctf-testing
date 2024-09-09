@@ -1,16 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Signer](https://github.com/ImaginaryCTF/ImaginaryCTF-2023-Challenges/tree/main/Crypto/signer)
-
-## Challenge Setup
-There are no dependency files for `main.py`.
-
-## Flag Linking
-This challenge calls a flag file in the current directory so had to link the flag with /flag which is the pwn.college text:
-Checks if the file flag.txt exists and if not then it creates a link between flag.txt and /flag
-```
-#!/bin/bash
-
-# Attempt to create a symboliclink
-ln -s /flag /challenge/flag.txt 2>/dev/null
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:0baa4e948ebea1ce7f552d0d0da0c84ef2d5a2a732f60dca21ab12b0583c5d30
+size 534

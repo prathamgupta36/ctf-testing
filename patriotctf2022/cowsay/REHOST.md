@@ -1,14 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Cowsay](https://github.com/MasonCompetitiveCyber/PatriotCTF2022-Public/tree/main/Crypto/Cowsay)
-
-## Challenge Setup
-There are no dependency files for `xord_file`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3246bba0608ef2c41ed67d810bd3fff24c81825c5ae3ff28ab5ed96290f27df1
+size 430

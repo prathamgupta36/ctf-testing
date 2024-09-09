@@ -1,6 +1,3 @@
-Yes, my python program crashed. But I made sure to scrub all the sensitive details out of the coredump!
-
-```Note: The original file is crypto.zip but all the files are already set up in /challenge```
-
----
-**Author:** Eth007
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df527ae887cc76e17978a60f6f6f595828e9fc70ef24f7d9c4c76798a757431
+size 308

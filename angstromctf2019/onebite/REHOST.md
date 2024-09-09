@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [One Bite](https://2019.angstromctf.com/challenges)
-
-## Challenge Setup
-There are no dependency files for `one_bite`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bc4948aefe2848f5611952c060bd70c6f77c794d816f6147be14c2315c2b3fd
+size 394

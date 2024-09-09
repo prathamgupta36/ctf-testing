@@ -1,16 +1,3 @@
-# REHOSTING
-
-Files can be found here: [Number Game](https://2022.angstromctf.com/challenges)
-
-## Challenge Setup
-There are no dependecy files for `number-game`. It does however need a `flag.txt` file in the current directory for the challenge to give the flag.
-
-## Flag Linking
-This challenge calls a flag file in the current directory so had to link the flag with /flag which is the pwn.college text:
-Checks if the file flag.txt exists and if not then it creates a link between flag.txt and /flag
-```
-#!/bin/bash
-
-# Attempt to create a symboliclink
-ln -s /flag /challenge/flag.txt 2>/dev/null
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b34fcfe6c14c23861ac88033a4055000ed8ca809aa338edc02256c97c6c014b
+size 597

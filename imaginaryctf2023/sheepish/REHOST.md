@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [sheepish](https://github.com/ImaginaryCTF/ImaginaryCTF-2023-Challenges/tree/main/Reversing/sheepish)
-
-## Challenge Setup
-There are no dependency files for `sheepish.py`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:864c93eaa17d9072820a8ce75b3b43537b9b0c1f09f674c59ad65723066fa73d
+size 436

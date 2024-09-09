@@ -1,18 +1,3 @@
-id: neverlan2019 
-name: NeverLAN CTF 2019
-
-challenges:
-  - id: alphabet
-    name: CRYPTO - Alphabet Soup
-  - id: feb14
-    name: CRYPTO - February 14th
-  - id: zerocool
-    name: CRYPTO - 150 - Z3r0 C00l Bruh!
-  - id: bases
-    name: CRYPTO - Cover the BASEs
-  - id: oink
-    name: CRYPTO - Oink Oink
-  - id: binary1
-    name: BINARY - 100 - Binary 1
-  - id: keyz
-    name: RECON - 250 - It's to KeyZ
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a3db3ca8cf62d468ce000edac752638ca5fd3404f5c7e764e08f9bbd718fab8
+size 400

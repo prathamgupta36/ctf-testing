@@ -1,17 +1,3 @@
-from Crypto.Util.number import getPrime, bytes_to_long
-
-with open('/flag', 'r') as file:
-    FLAG = file.read().strip()
-
-p = getPrime(1024); q = getPrime(1024)
-r = getPrime(4086); s = getPrime(4086)
-
-N = p * q
-e = 0x10001
-m = bytes_to_long(FLAG.encode())
-c = pow(m, e, N)
-
-print(c)
-print(r * p - s * q)
-print(r)
-print(s)
+version https://git-lfs.github.com/spec/v1
+oid sha256:248b78fb23b5d780749b6025f31812c75eb8fcae578c94f41328a7fe625e7a54
+size 346

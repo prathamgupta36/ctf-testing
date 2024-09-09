@@ -1,29 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-void flag(){
-    char flag[128];
-    
-    FILE *file = fopen("flag.txt","r");
-    if (!file) {
-        puts("Error: missing flag.txt.");
-        exit(1);
-    }
-
-    fgets(flag, 128, file);
-    puts(flag);
-}
-
-
-int main(){
-    setbuf(stdout, NULL);
-    gid_t gid = getegid();
-    setresgid(gid, gid, gid);
-    
-    char cry[24];
-
-    printf("Cry: ");
-
-    gets(cry);
-    return 0;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f10da10f2d1460a152e3cfa8f734b639d5f854179f9f5e4aa026953931c0388
+size 420

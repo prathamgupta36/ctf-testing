@@ -1,13 +1,3 @@
-# REHOSTING
-
-Files can be found here: [emoticons](https://github.com/ImaginaryCTF/ImaginaryCTF-2023-Challenges/tree/main/Crypto/emoticons)
-
-## Challenge Setup
-There are no dependency files for `gen.py` or `out.txt`.
-
-## Flag Check
-
-As this challenge has its own custom flag so we use a simple flag check binary where the hacker can input the challenge flag and get the pwn.college flag. Command to run flag check-
-```
-/challenge/flagcheck
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:932c9422e0d4b087c9947ed9d6f8039bbe03f52d901261632d99859ce4f8790c
+size 443
