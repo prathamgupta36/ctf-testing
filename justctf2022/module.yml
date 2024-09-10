@@ -1,0 +1,6 @@
+id: justctf2022 
+name: justCTF 2022
+
+challenges:
+  - id: amxx
+    name: RE - 406 - AMXX

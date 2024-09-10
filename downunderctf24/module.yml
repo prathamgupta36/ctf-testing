@@ -1,0 +1,25 @@
+id: downunderctf24
+name: DownUnderCTF 2024
+
+challenges:
+  - id: shufflebox
+    name: CRYPTO - 100 - Shufflebox
+  - id: decrypttheneval
+  #   name: CRYPTO - 118 - decrypt then eval      ###NEED TO FIX .init###
+  # - id: vforvieta
+  #   name: CRYPTO - 228 - V for Vieta  ###NEED TO FIX .init###
+  - id: myarraygenerator                        
+    name: CRYPTO - 200 - My Array Generator
+  - id: babysfirstforensics
+    name: FORENSICS - 100 - Baby's First Forensics
+  #- id: badpolicies
+   # name: FORENSICS - 100 - Bad Policies
+  - id: interceptedtransmission
+    name: MISC - 100 - Intercepted Transmissions   
+  - id: wackyreciepe
+    name: MISC - 141 - Wacky Recipe
+  - id: adorableencryptedanimal
+    name: REV - 449 - Adorable Encrypted Animal
+  - id: ternarybrained
+    name: REV - 335 - Ternary Brained
+  
